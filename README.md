@@ -18,7 +18,7 @@ command line client to collect and organize information for the business.
 -BOARDING_RECORDS: Service tracking with dates, staff assignments, and care instructions
 -POSITIONS: Available boarding services with descriptions and pricing
 
-## Technical Implmentation 
+## Technical Implementation 
 Developed comprehensive database schema with interconnected tables using primary/foreign 
 key relationships for efficient data organization and retrieval. Created SQL queries to perform 
 various modification operations including: Data insertion, Information updates, Record deletion, Complex data retrieval
